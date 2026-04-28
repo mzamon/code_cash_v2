@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- CodeCash Brand Colors from Logo -->
+    <color name="navy_dark">#0f172a</color>
+    <color name="navy_primary">#1e293b</color>
+    <color name="navy_light">#334155</color>
+    <color name="teal_primary">#2dd4bf</color>
+    <color name="teal_light">#5eead4</color>
+    <color name="teal_dark">#0d9488</color>
+    <color name="white">#ffffff</color>
+    <color name="off_white">#f1f5f9</color>
+    <color name="gray_light">#94a3b8</color>
+    <color name="gray_medium">#64748b</color>
+    <color name="gray_dark">#475569</color>
+    <color name="red_error">#ef4444</color>
+    <color name="green_success">#22c55e</color>
+    <color name="orange_warning">#f97316</color>
+    <color name="purple_accent">#a855f7</color>
 </resources>
